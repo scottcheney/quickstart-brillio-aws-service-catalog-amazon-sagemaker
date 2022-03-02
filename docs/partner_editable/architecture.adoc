@@ -7,7 +7,7 @@ AWS Cloud.
 :xrefstyle: short
 [#architecture1]
 .Quick Start architecture for {partner-product-name} on AWS
-image::../images/brillio-architecture-diagram.png[Architecture,width=100%,height=100%]
+image::../images/brillio-architecture-diagram.png[Architecture,width=50%,height=50%]
 
 As shown in <<architecture1>>, the Quick Start sets up the following:
 
